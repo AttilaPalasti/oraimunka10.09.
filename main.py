@@ -9,6 +9,8 @@ import e11
 import mintaW1
 import mintaFor
 import cGyakorlas
+import veletlenek
+import beolvas
 
 # elágazásos házik
 #e5.honap()
@@ -40,4 +42,6 @@ import cGyakorlas
 #cGyakorlas.kilenc()
 #cGyakorlas.kilenc()
 #cGyakorlas.tizenegy()
-cGyakorlas.tizenketto()
+#cGyakorlas.tizenketto()
+#veletlenek.egyAlap()
+veletlenek.KettoAlap()
